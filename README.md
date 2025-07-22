@@ -110,7 +110,8 @@ dica 1 - Pegue as especificações da tela que você está usando e busque a bib
 
 2- O bluetooth não responde:
 Depois de resolver o probllema da tela, agora era o bluetooth que não respondia, neste caso o problema estava no modo at do módulo bluetooth e como executar as configurações que exigiam não apenas o código correto, mas também na troca dos jumpers na hora correta.  
-Como eu resolvi o problema:
+
+Como eu resolvi o problema:  
 ✅ Passo 1: Com botão no pino "KEY" ou "EN"  
 Desligue o módulo HC-05  
 Mantenha o botão do pino KEY/EN pressionado  
@@ -130,7 +131,7 @@ Religue o VCC normalmente
 O LED agora pisca rápido  
 O módulo está de volta ao modo normal (pronto para emparelhar com celular ou Arduino)  
 
-✅ 6. Testar emparelhamento no celular  
+✅ Passo 4: Testar emparelhamento no celular  
 Ative o Bluetooth no celular  
 Procure pelo módulo (ou o nome que você colocou)  
 Senha padrão: 1234 ou a que você definiu  
